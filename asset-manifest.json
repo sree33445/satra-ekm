@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/satra-ekm/static/css/main.1e28010e.css",
+    "main.js": "/satra-ekm/static/js/main.7f261d6c.js",
+    "static/js/453.fe93b040.chunk.js": "/satra-ekm/static/js/453.fe93b040.chunk.js",
+    "index.html": "/satra-ekm/index.html",
+    "main.1e28010e.css.map": "/satra-ekm/static/css/main.1e28010e.css.map",
+    "main.7f261d6c.js.map": "/satra-ekm/static/js/main.7f261d6c.js.map",
+    "453.fe93b040.chunk.js.map": "/satra-ekm/static/js/453.fe93b040.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e28010e.css",
+    "static/js/main.7f261d6c.js"
+  ]
+}
