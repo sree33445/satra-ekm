@@ -91,8 +91,8 @@ function App() {
             </div>
 
             <h1 className="hero-title">
-              <span className="title-line">Sathra Consulting</span>
-              <span className="title-gradient">Services Pvt Ltd</span>
+              <span className="title-line">Net Solve</span>
+              <span className="title-gradient">Training Consulting Solutions Pvt Ltd</span>
             </h1>
 
             <p className="hero-subtitle">
@@ -315,7 +315,7 @@ function App() {
         <div className="container">
           <div className="footer-content">
             <p className="footer-text">
-              &copy; {new Date().getFullYear()} Sathra Consulting Services Pvt
+              &copy; {new Date().getFullYear()} Net Solve Training Consulting Solutions Pvt
               Ltd. All rights reserved.
             </p>
           </div>
