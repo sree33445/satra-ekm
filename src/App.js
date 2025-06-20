@@ -277,7 +277,7 @@ function App() {
                   <h3 className="contact-item-title">Visit Us</h3>
                   <p className="contact-text">
                     <a
-                      href="https://maps.app.goo.gl/5PtQWXAx88xNy7Xp6"
+                      href="https://maps.app.goo.gl/Pvo675E6e8S7CJDPA"
                       target="_blank"
                       rel="noopener noreferrer"
                       style={{
