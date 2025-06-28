@@ -121,7 +121,7 @@ function App() {
               <span className="title-gradient"> Revolution</span>
             </h2>
             <p className="section-description">
-              Sathra Consulting Services Pvt Ltd is a leading provider of IT
+              Net Solve Training Consulting Services Pvt Ltd is a leading provider of IT
               consulting, software development, and digital transformation
               services. We help organizations harness technology to drive
               growth, efficiency, and innovation in today's rapidly evolving
@@ -232,10 +232,10 @@ function App() {
                   </div>
                   <h3 className="contact-item-title">Email Us</h3>
                   <a
-                    href="mailto:info@sathraconsulting.com"
+                    href="mailto:info@sathraservices.com"
                     className="contact-link"
                   >
-                    info@sathraconsulting.com
+                    info@sathraservices.com
                   </a>
                 </div>
 
