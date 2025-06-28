@@ -63,12 +63,6 @@ function App() {
     },
   ];
 
-  const stats = [
-    { number: "100+", label: "Projects Delivered" },
-    { number: "50+", label: "Happy Clients" },
-    { number: "5+", label: "Years Experience" },
-    { number: "24/7", label: "Support Available" },
-  ];
 
   return (
     <div className="app">
@@ -116,19 +110,6 @@ function App() {
         </div>
       </header>
 
-      {/* Stats Section */}
-      <section className="stats">
-        <div className="container">
-          <div className="stats-grid">
-            {stats.map((stat, index) => (
-              <div key={index} className="stat-item">
-                <div className="stat-number">{stat.number}</div>
-                <div className="stat-label">{stat.label}</div>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
 
       <main className="main">
         {/* About Section */}
